@@ -10,7 +10,6 @@ Industrial and Embedded Computers & Components
 
 Links
 =====
-logic-supply.txt
 Logic Supply - Industrial and Embedded Computers & Components
 https://www.logicsupply.com/products/
 
