@@ -8,6 +8,26 @@ Logic Supply related links
 
 Links
 =====
+Fanless Computers
+https://www.logicsupply.com/products/industrial-computers/
+
 Logic Supply - Industrial and Embedded Computers & Components
 https://www.logicsupply.com/products/
 
+ML600G-52
+Industrial Fanless Intel Skylake Computer
+o Up to Intel Core i7
+o ram: DDR4 SO-DIMM (non-ECC), 2133Mhz, 32GB max
+o 3 HDMI, COM, dual Gb LAN
+o Dual 2.5" hot-swap bays w/RAID support
+o rear i/o:
+  3 HDMI ports
+  2 Gb LAN ports
+  4 USB 3.0 ports
+  2 RS-232/422/485 COM ports
+  1 RS-232 COM port
+  1 VGA port
+  2 USB 2.0 ports
+  2 Audio jacks; line-out, mic-in
+price: $875.45 (logic-supple.com Feb 23, 2018)
+https://www.logicsupply.com/ml600g-52/
