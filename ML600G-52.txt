@@ -1,0 +1,71 @@
+ML600G-52.txt
+Created Mon Mar  5 09:30:36 AKST 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+ML600G-52
+Industrial Fanless Intel Skylake Computer
+
+Hardened, fanless industrial PC with dual hot swap bays.
+Featuring Intel Skylake processing ranging from an efficient
+Celeron to a powerful Core i7, support for three independent
+displays, long lifecycle components and easy access to
+
+storage media.
+o Up to Intel Core i7
+o ram: DDR4 SO-DIMM (non-ECC), 2133Mhz, 32GB max
+o 3 HDMI, COM, dual Gb LAN
+o Dual 2.5" hot-swap bays w/RAID support
+o rear i/o:
+  3 HDMI ports
+  2 Gb LAN ports
+  4 USB 3.0 ports
+  2 RS-232/422/485 COM ports
+  1 RS-232 COM port
+  1 VGA port
+  2 USB 2.0 ports
+  2 Audio jacks; line-out, mic-in
+price: $875.45 (logic-supple.com Feb 23, 2018)
+https://www.logicsupply.com/ml600g-52/
+
++ Intel Core i7-6700TE (Skylake 2.4Ghz Processor: LGA1151 $406.00
++ 2x 16GB SO-DIMM DDR 2133                   2x $174.00 = $348.00
++ Wi-Fi/BT - Athgeros Dual-Band 2x2 802.11 a/b/g/n
++ Wi-Fi Dual Band Magnetic Antenna, 195m (7.68")           $15.00
+
+AC Adapter Power Adapter DC 12V, 6.67A, 80W Level 5 (included)
+
+Mounting:
+  VESA Mounting Screws - Set of 4                           $3.00
+  Wall Mounting Backets - Silver                           $10.00
+  DIN Rail 200mm Mounting Kit                              $16.00
+
+3 Year Warranty (up from 2 year standard warranty)        $129.00
+
+875.45 + 406 + 348 + 40 + 15 + 3 + 10 + 16 + 129 = $1,842.45
+
+Need to add 2x 1TB 2.5" SSD (Need to verify compatibility)
+
+
+Links
+=====
+Logic Supply - Industrial and Embedded Computers & Components
+https://www.logicsupply.com/products/
+
+ML600G-52
+Industrial Fanless Intel Skylake Computer
+o Up to Intel Core i7
+o ram: DDR4 SO-DIMM (non-ECC), 2133Mhz, 32GB max
+o 3 HDMI, COM, dual Gb LAN
+o Dual 2.5" hot-swap bays w/RAID support
+o rear i/o:
+  3 HDMI ports
+  2 Gb LAN ports
+  4 USB 3.0 ports
+  2 RS-232/422/485 COM ports
+  1 RS-232 COM port
+  1 VGA port
+  2 USB 2.0 ports
+  2 Audio jacks; line-out, mic-in
+price: $875.45 (logic-supple.com Feb 23, 2018)
+https://www.logicsupply.com/ml600g-52/
+
